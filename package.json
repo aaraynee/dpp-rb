@@ -1,0 +1,15 @@
+{
+  "name": "developer-programming-problem",
+  "version": "1.0.0",
+  "description": "Developer Programming Problem",
+  "scripts": {
+    "start": "cat data.txt | node index.js",
+    "test": "jest"
+  },
+  "author": "Ahmed Arayne",
+  "license": "unlicense",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  },
+  "dependencies": {}
+}
